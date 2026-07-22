@@ -1,35 +1,33 @@
-# Submission: Belajar Dasar Pemrograman Web
+# Personal Web Portfolio - Rafi Kahfi Yugi
 
-Halo! Ini adalah repositori untuk tugas akhir saya dalam modul **Belajar Dasar Pemrograman Web** yang diselenggarakan oleh **Dicoding Indonesia**. Proyek ini merupakan bagian dari perjalanan belajar saya di program **Coding Camp 2026**.
+Welcome to my personal web portfolio repository! This website showcases my journey, skills, and projects as an **Informatics Graduate & Web Developer**.
 
-## 🚀 Fitur & Kriteria Tugas
-
-- **Struktur Semantik:** Website dibangun menggunakan elemen semantik HTML5 yang baik.
-- **Styling Modern:** Menggunakan CSS murni dengan implementasi Flexbox/Grid untuk tata letak.
-- **Responsif:** Tampilan website menyesuaikan dengan berbagai ukuran layar (Mobile, Tablet, Desktop).
-- **Aset Visual:** Penggunaan gambar dan ikon pendukung untuk meningkatkan pengalaman pengguna.
-
-## 🛠️ Teknologi yang Digunakan
-
-- **HTML5**
-- **CSS3**
-
-## 📝 Catatan Proyek
-
-Proyek ini dibuat sebagai bentuk evaluasi pemahaman dasar mengenai pembuatan website statis dan penerapan _best practices_ dalam pengembangan web.
+🌐 **Live Demo:** [https://rafikahfi.github.io](https://rafikahfi.github.io)
 
 ---
 
-## 📜 Hak Cipta & Pengakuan (Copyright & Acknowledgement)
+## 🚀 Features & Highlights
 
-This project is a result of the final assignment in the **Coding Camp 2026** training, a collaborative program between **DBS Foundation** and **Dicoding Indonesia**.
+- **Semantic HTML5:** Built using standard accessibility and structural elements.
+- **Responsive Layout:** Mobile-first architecture powered by custom CSS Flexbox.
+- **Clean UI/UX:** Styled with custom color palettes, modern typography, and clean cards.
+- **Interactive Links:** Direct access to active social profiles and featured projects.
 
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML5, CSS3, Modern JavaScript (ES6+)
+- **Design & Assets:** FontAwesome Icons, Google Fonts (Plus Jakarta Sans)
+
+---
+
+## 📜 Acknowledgement & Credits
+
+This project was refined as part of the submission requirements for the **Belajar Dasar Pemrograman Web** course, under the **Coding Camp 2026** program powered by **DBS Foundation** and **Dicoding Indonesia**.
+
+- **Developer:** Rafi Kahfi Yugi
 - **Program:** [Coding Camp 2026 powered by DBS Foundation](https://go.dbs.com/dbsfcodingcamp)
-- **Penyelenggara:** Dicoding Indonesia
-- **Dukungan:** DBS Foundation | Road to Future Workforce
-
-Informasi lebih lanjut mengenai program ini dapat dilihat melalui link resmi: [DBS Coding Camp](https://www.dbs.com/spark/index/id_id/site/codingcamp/index.html).
+- **Organizer:** Dicoding Indonesia
 
 ---
 
-© 2026 rafikahfi. All Copyrights Reserved.
+© 2026 Rafi Kahfi Yugi. All Rights Reserved.
