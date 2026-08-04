@@ -24,7 +24,7 @@ export default function Hero() {
     <section
       id="hero"
       aria-label="Hero Section"
-      className="max-w-7xl w-full mx-auto flex-1 px-8 md:px-28 py-12 md:py-0 flex flex-col md:flex-row items-center justify-center gap-8 md:gap-10 text-left"
+      className="max-w-7xl w-full mx-auto flex-1 px-8 md:px-28 py-12 md:py-0 flex flex-col md:flex-row items-center md:justify-center gap-8 md:gap-10 text-left"
     >
       <div className="w-full md:flex-1 order-1">
         <h1 className="text-brand-blue font-extrabold text-3xl md:text-4xl tracking-wider mb-4 md:mb-6">
