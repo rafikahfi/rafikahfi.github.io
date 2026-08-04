@@ -1,0 +1,35 @@
+/* Google Fonts */
+
+@import url("https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@400..700&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --color-brand-blue: #134686;
+  --color-brand-red: #ed3f27;
+  --color-brand-yellow: #feb21a;
+  --color-brand-cream: #fdf4e3;
+  --color-brand-dark: #2b2a2a;
+
+  --font-sans: "Plus Jakarta Sans", sans-serif;
+  --font-handwriting: "Edu SA Beginner", cursive;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}
+
+body {
+  background-color: var(--color-brand-cream);
+  color: var(--color-brand-dark);
+  font-family: var(--font-sans);
+}
+
+@layer utilities {
+  .shadow-dropdown-bottom {
+    box-shadow:
+      0 3px 3px -1px rgb(0 0 0 / 0.08),
+      0 1px 2px -1px rgb(0 0 0 / 0.08);
+  }
+}
