@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import cartoonProfile from "../assets/images/profile-cartoon.png";
+import cartoonProfile from "../../assets/images/profile-cartoon.png";
 
 export default function Hero() {
   const [isMobile, setIsMobile] = useState(false);
