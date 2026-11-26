@@ -17,6 +17,6 @@ export const generalInfo = [
   {
     id: 4,
     term: "Interests",
-    description: "Playing Music and Games",
+    description: "Running and Music",
   },
 ];
