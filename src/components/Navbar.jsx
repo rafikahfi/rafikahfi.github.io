@@ -33,7 +33,6 @@ export default function Navbar() {
               <a
                 href="#contact"
                 className="px-4 py-2 rounded-full font-medium text-brand-blue hover:bg-brand-blue hover:text-brand-cream transition-colors"
-                target="_blank"
                 rel="noopener noreferrer"
               >
                 Contact
